@@ -1,0 +1,51 @@
+.dpDiv {
+	
+}
+.dpTable {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #aaaaaa 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #aaaaaa 1px solid; COLOR: #505050; BORDER-BOTTOM: #aaaaaa 1px solid; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: white; TEXT-ALIGN: center
+}
+.dpTR {
+	
+}
+.dpTitleTR {
+	
+}
+.dpDayTR {
+	
+}
+.dpTodayButtonTR {
+	
+}
+.dpTD {
+	BORDER-RIGHT: #ece9d8 1px solid; BORDER-TOP: #ece9d8 1px solid; BORDER-LEFT: #ece9d8 1px solid; BORDER-BOTTOM: #ece9d8 1px solid
+}
+.dpDayHighlightTD {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #aaaaaa 1px solid; BORDER-LEFT: #aaaaaa 1px solid; BORDER-BOTTOM: #aaaaaa 1px solid; BACKGROUND-COLOR: #cccccc
+}
+.dpTDHover {
+	BORDER-RIGHT: #888888 1px solid; BORDER-TOP: #888888 1px solid; BORDER-LEFT: #888888 1px solid; CURSOR: pointer; COLOR: red; BORDER-BOTTOM: #888888 1px solid; BACKGROUND-COLOR: skyblue
+}
+.dpTitleTD {
+	
+}
+.dpButtonTD {
+	
+}
+.dpTodayButtonTD {
+	
+}
+.dpDayTD {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #aaaaaa 1px solid; BORDER-LEFT: #aaaaaa 1px solid; COLOR: white; BORDER-BOTTOM: #aaaaaa 1px solid; BACKGROUND-COLOR: #cccccc
+}
+.dpTitleText {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: gray
+}
+.dpDayHighlight {
+	FONT-WEIGHT: bold; BACKGROUND: navy; COLOR: white
+}
+.dpButton {
+	BORDER-RIGHT: black 0px solid; PADDING-RIGHT: 0px; BORDER-TOP: black 0px solid; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 10px; BACKGROUND: skyblue; PADDING-BOTTOM: 0px; BORDER-LEFT: black 0px solid; COLOR: white; PADDING-TOP: 0px; BORDER-BOTTOM: black 0px solid; FONT-FAMILY: Verdana, Tahoma, Arial, Helvetica, sans-serif
+}
+.dpTodayButton {
+	BORDER-RIGHT: black 0px solid; BORDER-TOP: black 0px solid; FONT-WEIGHT: bold; FONT-SIZE: 10px; BACKGROUND: skyblue; BORDER-LEFT: black 0px solid; COLOR: white; BORDER-BOTTOM: black 0px solid; FONT-FAMILY: Verdana, Tahoma, Arial, Helvetica, sans-serif
+}
